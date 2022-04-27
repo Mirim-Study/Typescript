@@ -8,7 +8,7 @@ Typescript의 재미를 알고 점차 실력을 키워봅시다✨
 4. 위 과정을 반복하여 🥳타입스크립트 신🎉이 되어요
 
 ## 벌점 테이블
-|[양아름](https://github.com/areumsheep)|[이지아](https://github.com/Seongtaek-H)|
+|[양아름](https://github.com/areumsheep)|[이지아](https://github.com/JiaLee0707)|
 |-|-|
 |0|0|
 
