@@ -14,3 +14,7 @@ Typescript의 재미를 알고 점차 실력을 키워봅시다✨
 |0|0|
 
 ## 스터디 정리본📝
+
+### 1주차
+양아름
+- 섹션1, 1~9강: https://velog.io/@reum107/%EA%B0%95%EC%9D%98-Udemy-Typescript-1
