@@ -9,3 +9,8 @@
 <img width="931" alt="image" src="https://user-images.githubusercontent.com/48716298/165652769-2ed363da-6659-4d30-8221-da6a8efd189f.png">
 
 6. 강의를 진행하며 궁금한 점, 스터디에 대한 질문, 참여 요청 등등은 [Issue](https://github.com/Mirim-Study/Typescript/issues)나 areumsheep@gmail.com 로 부탁드립니다.
+<br/>
+
+## ❔로컬로 fork한 뒤 PR보내도 될까요?
+네 됩니다! 위 방법은 초보자도 쉽게 진행하기 위해 원본 저장소에 브랜치를 만드는 방법이며 fork하신 뒤 PR 주셔도 됩니다 :)   
+**참고하기 좋은 링크**: https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
