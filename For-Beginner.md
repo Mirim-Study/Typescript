@@ -11,6 +11,12 @@
 6. 강의를 진행하며 궁금한 점, 스터디에 대한 질문, 참여 요청 등등은 [Issue](https://github.com/Mirim-Study/Typescript/issues)나 areumsheep@gmail.com 로 부탁드립니다.
 <br/>
 
-## ❔로컬로 fork한 뒤 PR보내도 될까요?
+## ❔ 로컬로 fork한 뒤 PR보내도 될까요?
 네 됩니다! 위 방법은 초보자도 쉽게 진행하기 위해 원본 저장소에 브랜치를 만드는 방법이며 fork하신 뒤 PR 주셔도 됩니다 :)   
 **참고하기 좋은 링크**: https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
+
+## ❔ 제가 이번주에 못했는데... 다음주에 2번 올리면 되나요?
+네 맞습니다! 이번주에 못한 내용은 다음주에 이전 주의 라벨로 올려주시면 됩니다!   
+만약 `week1`에 과제를 못해서 `week2`까지 영향이 갔다면 이번주에는 `week1`, `week2`를 올리는 고통이 생겨요😫 (마치 Like 구몬학습 선생님...)      
+    
+<img src="https://user-images.githubusercontent.com/48716298/166868212-3a907f08-3ab1-466f-908f-8336f461dc59.png" width="450">
