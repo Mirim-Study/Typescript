@@ -40,7 +40,7 @@ console.log(person.name);
 
 for (const hobby of person.hobbies) {
     console.log(hobby.toUpperCase());
-    // console.log(hobby.localeCompare()); // !!! ERROR !!!
+    // console.log(hobby.map()); // !!! ERROR !!!
 }
 
 if (person.role === Role.AUTHOR) {
